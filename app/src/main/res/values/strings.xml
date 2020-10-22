@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Sportodds</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="opentableac">Button</string>
+    <string name="opentennisac">Tischtennis</string>
+    <string name="text1">Wie viele Punkte hatte ein Spiel?</string>
+    <string name="text2">Wie viele Sätze hat Spieler 1 gewonnen?</string>
+    <string name="text3">Wie viele Sätze hat Spieler 2 gewonnen?</string>
+    <string name="text4">Musste man mit einem gewissen Abstand gewinnen?</string>
+    <string name="text5">Wie groß muss dieser Abstand sein?</string>
+    <string name="cb1">Nein</string>
+    <string name="cb2">Ja</string>
+    <string name="tischtennisbutton">Button</string>
+    <string name="ja">Ja</string>
+    <string name="nein">Nein</string>
+    <string name="speichern">Ergebnis speichern</string>
+    <string name="Spieleranlegen">Neue Spieler hinzufügen</string>
+    <string name="player_angeben">Player angeben</string>
+    <string name="name">Name</string>
+    <string name="spieler_l_schen">Spieler löschen</string>
+    <string name="Entwicklungenansehen">Entwicklungen ansehen</string>
+    <string name="Spieler">Spieler</string>
+    <string name="Sportart">Sportart</string>
+    <string name="Graph">Graph anzeigen</string>
+    <string name="Spieler2">Spieler2</string>
+    <string-array name="Players">
+
+    </string-array>
+</resources>
